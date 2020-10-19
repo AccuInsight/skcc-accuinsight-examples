@@ -1,0 +1,16 @@
+**/.ipynb_checkpoints
+**/.idea
+**/__pycache__
+.DS_Store
+target/
+.DS_STORE
+.settings/*
+javadocs/*
+.classpath
+.project
+logs/
+.idea
+__pycache__/
+# IntelliJ IDEA
+*.iml
+
