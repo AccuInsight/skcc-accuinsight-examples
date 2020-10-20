@@ -1,7 +1,7 @@
 # skcc-accuinsight-examples
 skcc-accuinsight-examples
 
-이 리포지토리에는 Amazon SageMaker에서 기계 학습 및 딥 러닝을 적용하는 방법을 보여주는 예제 노트북이 포함되어 있습니다.
+이 리포지토리에는 [Accuinsight+ Modeler](http://gcp.accuinsight.net)에서 기계 학습 및 딥 러닝을 적용하는 방법을 보여주는 예제 노트북이 포함되어 있습니다.
 
 
 ## Examples
