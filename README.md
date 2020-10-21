@@ -9,6 +9,7 @@
 
 이 예제는 다양한 분야에서 적용되고 있는 머신 러닝의 실제 사용 사례 및 개념을 소개합니다.
 
+- [house price prediction](applying_machine_learning/house_price_prediction) : 머신 러닝 기법을 활용하여 미국 아이오와 주 Ames 도시의 주택 가격을 예측합니다. 
 
 
 ### 모델 튜닝 자동화 
@@ -22,4 +23,4 @@
 
 ### Accuinsight+ Data Drift 분석 및 모니터링 
 
-이 예제는 Accuinsight+를 사용하여 사전 구축한 노트북 워크스페이스에서 Data Drift를 설정하는 방법을 보여줍니다. 
+이 예제는 Accuinsight+를 사용하여 사전 구축한 노트북 워크스페이스에서 Data Drift를 설정하는 방법을 보여줍니다. []
