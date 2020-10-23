@@ -23,4 +23,4 @@
 
 ### Accuinsight+ Data Drift 분석 및 모니터링 
 
-이 예제는 Accuinsight+를 사용하여 사전 구축한 노트북 워크스페이스에서 Data Drift를 설정하는 방법을 보여줍니다. []
+이 예제는 Accuinsight+를 사용하여 사전 구축한 노트북 워크스페이스에서 Data Drift를 설정하는 방법을 보여줍니다. 
