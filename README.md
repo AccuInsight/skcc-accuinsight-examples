@@ -22,6 +22,7 @@
  - [autodl_cnn_review_text_classification](hyperparameter_tuning/autodl_cnn_review_text_classification) : 영화 리뷰 데이터를 분류하는 CNN 모델과 Accuinsight+ Modeler의 AutoDL 기능을 이용해 모델의 하이퍼 파라미터를 최적화하는 방법을 보여줍니다.
  - [autodl_mlp_user_classification](hyperparameter_tuning/autodl_mlp_user_classification) : 스팸 계정과 정상 계정을 분류하는 MLP 모델과 Accuinsight+ Modeler의 AutoDL 기능을 이용해 모델의 하이퍼 파라미터를 최적화하는 방법을 보여줍니다.
  - [autodl_rnn_temperature_regression](hyperparameter_tuning/autodl_rnn_temperature_regression) : 서울의 평균 기온을 예측하는 RNN 모델과 Accuinsight+ Modeler의 AutoDL 기능을 이용해 모델의 하이퍼 파라미터를 최적화하는 방법을 보여줍니다.
+ - [autodl_autoencoder_fraud_detection](hyperparameter_tuning/autodl_autoencoder_fraud_detection) : 부정 거래를 탐지하기 위한 Autoencoder 모델과 Accuinsight+ Modeler의 AutoDL 기능을 이용해 모델의 하이퍼 파라미터를 최적화하는 방법을 보여줍니다.
 
 
 
