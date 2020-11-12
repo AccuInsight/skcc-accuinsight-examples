@@ -3,6 +3,7 @@ from tensorflow.keras.callbacks import Callback
 from konlpy.tag import Okt
 import numpy as np
 import pandas as pd
+import argparse
 
 # setting hyper-parameters ############################################
 parser = argparse.ArgumentParser()
