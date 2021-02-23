@@ -1,13 +1,12 @@
 import numpy as np
 import tensorflow as tf
 import sys
-from common import *
 
-from display_stand.core.Dual_stage_attention_model import DARNN
+from core.Dual_stage_attention_model import DARNN
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 from matplotlib import rc
-from display_stand.core.data_prepare_DARNN import *
+from core.data_prepare_DARNN import *
 
 
 class model_DARNN():
