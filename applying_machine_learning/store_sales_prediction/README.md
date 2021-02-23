@@ -20,7 +20,7 @@
 
 ### 온라인 쇼핑몰
 
-* [온라인 쇼핑몰 제품 판매량 예측 (1)](./online_sales_prediction.ipynb)
+* [온라인 쇼핑몰 제품 판매량 예측](./online_sales_prediction.ipynb)
   * 과거 sales 데이터를 이용 단기간 미래의 sales 데이터를 예측한다.
   * 기본적인 데이터를 탐색하고 RNN 기반의 여러 딥러닝 모델을 이용해 예측하고 성능을 비교하여 본다.
 
