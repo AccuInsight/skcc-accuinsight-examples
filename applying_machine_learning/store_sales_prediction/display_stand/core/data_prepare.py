@@ -8,7 +8,7 @@
     Licence: SK Holdings C&C, Data Science TF
     Status: Development
     Version: 0.9
-    Python Version: 3.6.8
+    Python Version: 3.7.x
 """
 
 import numpy as np

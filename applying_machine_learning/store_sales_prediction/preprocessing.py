@@ -6,12 +6,8 @@
     
     Copyright (C) 2019 of Data Science TF. All rights reserved.
     Licence: SK Holdings C&C, Data Science TF
-    
-    Status: Development
-    Version: 0.9
-    
-    Python Version: 3.6.8
 """
+
 from dateutil.relativedelta import relativedelta
 import numpy as np
 import pandas as pd

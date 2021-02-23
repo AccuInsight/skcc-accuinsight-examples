@@ -170,33 +170,3 @@ def Graph_Evaluation(mae, name='no_name'):
 
     plt.show()
 
-
-'''
-def Graph_Evaluation_final():
-    global my_prediction
-
-    y_value = sorted(my_prediction.items(), key=lambda x: x[1], reverse=True)
-
-    df = pd.DataFrame(y_value, columns=['algorithm', 'mae'])
-    min_ = df['mae'].min() - 10
-    max_ = df['mae'].max() + 10
-
-    length = len(df)
-
-    plt.figure(figsize=(10, length))
-    ax = plt.subplot()
-    ax.set_yticks(np.arange(len(df)))
-    ax.set_yticklabels(df['algorithm'], fontsize=15)
-    bars = ax.barh(np.arange(len(df)), df['mae'])
-
-    for i, v in enumerate(df['mae']):
-        idx = np.random.choice(len(colors))
-        bars[i].set_color(colors[idx])
-        ax.text(v + 2, i, str(round(v, 3)), color='k', fontsize=15, fontweight='bold')
-
-    plt.title('Mean Absolute Error', fontsize=18)
-    plt.xlim(min_, max_)
-
-    plt.show()
-'''
-

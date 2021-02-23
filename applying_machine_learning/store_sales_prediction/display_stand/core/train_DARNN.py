@@ -2,10 +2,7 @@ import numpy as np
 import tensorflow as tf
 import sys
 from common import *
-# PMD_DIR = os.path.join(ROOT_DIR, 'store_pmd')
-# SOURCE_DIR = os.path.join(PMD_DIR, 'source')
 
-# sys.path.append(SOURCE_DIR)
 from display_stand.core.Dual_stage_attention_model import DARNN
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
@@ -114,8 +111,6 @@ class model_DARNN():
 
     def coeff_InputAttention(self, variable_dict):
 
-#         font_name = fm.FontProperties(fname="c:/Windows/Fonts/malgun.ttf").get_name()
-#         rc("font", family=font_name)
         variable_key = list(variable_dict.keys())
         alpha = []
         variables = []
@@ -124,6 +119,7 @@ class model_DARNN():
             for key in variable_key:
                 if f"{i}" in variable_dict[key]:
                     variables.append(f"{key}{i}")
+        
         plt.figure(figsize=(6, 4))
         plt.bar(x=variables, height=alpha, color="navy")
         plt.style.use("seaborn-pastel")
