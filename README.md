@@ -10,7 +10,7 @@
 이 예제는 다양한 분야에서 적용되고 있는 머신 러닝의 실제 사용 사례 및 개념을 소개합니다.
 
 - [house price prediction](applying_machine_learning/house_price_prediction) : 자동화된 시각화 함수를 포함한 다양한 방식으로 데이터를 살펴보고, 머신 러닝 기법을 활용하여 미국 아이오와 주 Ames 도시의 주택 가격을 예측합니다. 
-
+- [store sales prediction](applying_machine_learning/store_sales_prediction) : On/Offline 매장의 일자별 상품 판매량 데이터를 분석하고 머신러닝 및 딥러닝 방법을 이용해 미래 판매량을 예측하는 방법에 대해 소개합니다.
 
 ### 모델 튜닝 자동화 
 
